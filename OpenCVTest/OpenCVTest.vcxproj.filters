@@ -26,7 +26,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="OpenCVTest.cpp">
+    <ClCompile Include="try.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
