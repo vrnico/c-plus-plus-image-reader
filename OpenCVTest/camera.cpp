@@ -14,7 +14,7 @@ const char* keys =
 	"{@video | | Video file, if not defined try to use webcamera}"
 };
 
-int main(int argc, const char** argv)
+int camera(int argc, const char** argv)
 {
 	CommandLineParser parser(argc, argv, keys);
 	parser.about("Nico's Camera v 0.9");
