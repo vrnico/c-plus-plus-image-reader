@@ -1,6 +1,6 @@
 # C++ / OpenCV examples
 
-![animated gif of nico](http://i.imgur.com/5SntCvz.gif "haar face recognition")
+![animated gif of nico](https://i.imgur.com/sOsq0Kl.gif "haar face recognition")
 
 [nicodaunt.com](http://nicodaunt.com) - visit my virtual portfolio
 
