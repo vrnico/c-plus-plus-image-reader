@@ -1,6 +1,6 @@
 # C++ / OpenCV examples
 
-[![waving nico](https://imgur.com/5SntCvz.gif)](http://nicodaunt.com)
+[waving nico](https://imgur.com/5SntCvz.gif)](http://nicodaunt.com)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
