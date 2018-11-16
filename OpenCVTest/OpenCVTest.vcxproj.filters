@@ -35,5 +35,8 @@
     <ClCompile Include="data_storage.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="slider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
