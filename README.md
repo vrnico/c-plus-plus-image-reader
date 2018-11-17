@@ -1,6 +1,7 @@
 # C++ / OpenCV examples
 
 ![animated gif of nico](https://i.imgur.com/sOsq0Kl.gif "haar face recognition")
+![png of squarefinder](https://imgur.com/2xpzMRV.png "squarefinder")
 
 [nicodaunt.com](http://nicodaunt.com) - visit my virtual portfolio
 
