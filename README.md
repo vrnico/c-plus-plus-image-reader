@@ -12,3 +12,4 @@ Here is a collection of working C++ / OpenCV examples. This repo includes
   - Image Reader
   - Camera
   - Haar Face Recognition
+  -Square Finder
